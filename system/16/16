@@ -1,0 +1,3 @@
+cron - general name for service
+crontab - file containing jobs
+crond - name for daemon that runs in the background and reads crontab files
