@@ -1,0 +1,3 @@
+Graphic session: start virtual machine, choose another user, enter login and password
+
+SSH session: ssh username@<IP_host>
