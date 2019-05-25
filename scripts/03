@@ -1,2 +1,2 @@
 #! /bin/bash
-scp -P 2222 -r ../network/ ../system/ ../scripts victor@127.0.0.1:/home/victor
+scp -P 2222 -r ../system/ ../scripts victor@127.0.0.1:/home/victor

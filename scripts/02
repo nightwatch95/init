@@ -1,7 +1,6 @@
 #! /bin/bash
-username = $1
+username=$1
 
 ps -fp $(pgrep -u $username)
 sudo killall -KILL -u $username
-userdel $username
-userdel -r $username
+sudo userdel -r $username
